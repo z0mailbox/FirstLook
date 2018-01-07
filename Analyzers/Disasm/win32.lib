@@ -1,0 +1,9 @@
+/NODEFAULTLIB
+/NOLOGO
+/OUT:\z0\FirstLook\Lib\win32\disasm.lib
+opcodes.obj
+optypes.obj
+mnemonic.obj
+disasm.obj
+selfcheck.obj
+print.obj

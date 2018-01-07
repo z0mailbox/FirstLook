@@ -1,0 +1,17 @@
+/ENTRY:entry
+/FIXED
+/NOLOGO
+/OUT:test32.exe
+/SUBSYSTEM:CONSOLE
+/MACHINE:X86
+/NODEFAULTLIB
+/INCREMENTAL:NO
+/DEBUG
+/DEBUGTYPE:CV
+test.obj
+common.lib
+disasm.lib
+kernel32.lib
+user32.lib
+msvcrt.lib
+shell32.lib
